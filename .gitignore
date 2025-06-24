@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs folder and everything in it
+logs/
+
+# Optionally ignore virtual environment
+aml-venv/
