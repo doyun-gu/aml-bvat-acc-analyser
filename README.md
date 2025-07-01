@@ -50,7 +50,7 @@ Below is a summary of each test drive, including the purpose of data collection,
 
 This test drive was conducted near the Wellesbourne area, with a target speed of **50 mph (~80.5 km/h)**. However, the road conditions were not ideal—heavy traffic and frequent stop-and-go situations made it difficult to properly assess **Adaptive Cruise Control (ACC)** performance under consistent driving conditions.
 
-Key Observations:
+**Key Observations:**
 - Due to congestion, the vehicle was unable to maintain speeds above 50 mph, which limited the ability to evaluate certain KPIs that require high-speed conditions.
 - As a result, this test is primarily used to verify the **data logging process** and evaluate how many KPIs can still be monitored effectively.
 - The analysis focuses on identifying vehicle behavior trends and testing KPI-related functions based on the available data.
