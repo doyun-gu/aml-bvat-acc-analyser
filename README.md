@@ -55,6 +55,6 @@ Key Observations:
 - As a result, this test is primarily used to verify the **data logging process** and evaluate how many KPIs can still be monitored effectively.
 - The analysis focuses on identifying vehicle behavior trends and testing KPI-related functions based on the available data.
 
-> [!Note} 
+> [!Note]
 > This Lucid Motors test session is not intended as a full performance evaluation. Rather, it serves as a foundational analysis for refining the logging system and assessing KPI coverage under real-world traffic conditions.
  
