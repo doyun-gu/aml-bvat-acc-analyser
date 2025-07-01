@@ -38,3 +38,23 @@ Once these two inputs are provided, the logger will begin running and wait for i
 - The `/log` directory will be created automatically if it doesn't already exist.
 
 This script provides a simple and reliable way to capture data logs for further analysis.
+
+## Analysis Results
+
+As data collection continues, more Jupyter Notebooks will be added to test and analyze the current module across various vehicles. With each new dataset, the analysis code will be further refined and enhanced, allowing for more accurate evaluation of ADAS performance across different brands.
+
+Below is a summary of each test drive, including the purpose of data collection, observed conditions, and relevant updates to the analysis approach.
+---
+
+### Test Drive with Lucid Motors – 18 June 2025
+
+This test drive was conducted near the Wellesbourne area, with a target speed of **50 mph (~80.5 km/h)**. However, the road conditions were not ideal—heavy traffic and frequent stop-and-go situations made it difficult to properly assess **Adaptive Cruise Control (ACC)** performance under consistent driving conditions.
+
+Key Observations:
+- Due to congestion, the vehicle was unable to maintain speeds above 50 mph, which limited the ability to evaluate certain KPIs that require high-speed conditions.
+- As a result, this test is primarily used to verify the **data logging process** and evaluate how many KPIs can still be monitored effectively.
+- The analysis focuses on identifying vehicle behavior trends and testing KPI-related functions based on the available data.
+
+> [!Note} 
+> This Lucid Motors test session is not intended as a full performance evaluation. Rather, it serves as a foundational analysis for refining the logging system and assessing KPI coverage under real-world traffic conditions.
+ 
