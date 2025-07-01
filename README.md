@@ -1,5 +1,11 @@
 # Aston Martin BVAT Project
 
+This project is being developed independently to support one of Aston Martin's ADAS-related initiatives.  
+Special thanks to the ADAS team for providing support with test driving, which enables us to collect valuable data and compare the performance of different brands' ADAS features.
+
+The goal is to evaluate and understand how various implementations of Adaptive Cruise Control (ACC) and Autonomous Emergency Braking (AEB) perform across manufacturers.
+
+
 ## Introduction
 
 This project focuses on analysing two key ADAS (Advanced Driver Assistance Systems) features: **Adaptive Cruise Control (ACC)** and **Autonomous Emergency Braking (AEB)**.
