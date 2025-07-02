@@ -57,4 +57,5 @@ This test drive was conducted near the Wellesbourne area, with a target speed of
 
 > [!Note]
 > This Lucid Motors test session is not intended as a full performance evaluation. Rather, it serves as a foundational analysis for refining the logging system and assessing KPI coverage under real-world traffic conditions.
- 
+
+## Flashing Firmware Image on the STM32 Hardware
